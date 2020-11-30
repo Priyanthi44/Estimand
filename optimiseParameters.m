@@ -2,6 +2,8 @@
 %in here we apply Nelder-Mead algorithm to optimise parameters 
 %if the beta<position, the initial N is calculated using the equations
 function optimiseParameters()
+initialEstimate();
+
 end
 function initialEstimate()
 
