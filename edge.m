@@ -138,7 +138,7 @@ U=(Dataset(1,2,items));
 %         xlabel('Time in ms')
 %         ylabel('Voltagein mV');
         
-    end    
+end    
 
     
 %% SNN 
